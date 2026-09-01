@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Alibeck Alibeck** — a passionate developer who loves building things and learning every day.
+I'm **alibeck** — a passionate developer who loves building things and learning every day.
 
 ---
 
