@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **alibeck** — a passionate developer who loves building things and learning every day.
+I'm **Alibeck Alibeck** — a passionate developer who loves building things and learning every day.
 
 ---
 
@@ -19,8 +19,6 @@ I'm **alibeck** — a passionate developer who loves building things and learnin
 
 **Tools**  
 `Git` `GitHub` `VS Code`
-
-*(Add more skills here later)*
 
 ---
 
@@ -43,6 +41,8 @@ I'm **alibeck** — a passionate developer who loves building things and learnin
 ### 🤝 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alibeckm)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aalibeck)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aalibeckm)
 
 ---
 
