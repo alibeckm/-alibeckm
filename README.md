@@ -8,7 +8,7 @@ I'm **alibeck** — a passionate developer who loves building things and learnin
 - 🔭 Currently exploring new projects and ideas
 - 🌱 Always learning and improving my skills
 - 💡 Interested in coding, open-source, and creating useful tools
-- ⚡ Fun fact: I just started customizing my GitHub profile!
+
 
 ---
 
